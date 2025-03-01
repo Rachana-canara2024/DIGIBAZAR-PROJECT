@@ -24,7 +24,7 @@ export default function Error() {
     >
       <img
         src={errorimg} // Replace this with your actual error GIF URL
-        alt="Error Occurred"
+        alt="hello git new branch 01-03-2025-r"
         style={{
           maxWidth: "300px",
           marginBottom: "20px",
